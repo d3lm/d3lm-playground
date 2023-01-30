@@ -1,0 +1,11 @@
+{
+  "name": "d3lm-playground",
+  "version": "0.0.3",
+  "author": "Dominic Elm",
+  "license": "MIT",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
